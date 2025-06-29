@@ -1,5 +1,6 @@
 # Repository for "Neural Representations of Human Reinforcement Learning in Real-World Environments Revealed by a Deep RL Agent"
 ![fig](https://github.com/JuhyeonHailey/Photographer_DQN_RSA/blob/main/PhotographerRL.png?raw=true)
+Reinforcement learning study using Photographer paradigm.
 
 # Prepare for Conda environment
 
