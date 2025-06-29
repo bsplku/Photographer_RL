@@ -46,6 +46,6 @@ Please download [RSA_score_sbjs_rndperm_l01.mat](http://bspl.korea.ac.kr/Researc
 
 ### Author
 >Juhyeon Lee, Ph.D. \
->jh0104lee@gmail.com 
+>jh0104lee@gmail.com  \
 >[Brain Signal Processing Lab](https://bspl-ku.github.io/) \
 >[Department of Brain and Cognitive Engineering](https://bce.korea.ac.kr), [Korea University](https://www.korea.edu), Seoul, Republic of Korea
