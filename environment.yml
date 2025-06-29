@@ -1,0 +1,20 @@
+name: rsa
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - matplotlib
+  - nibabel
+  - nilearn
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - h5py
+  - openpyxl
+  - pip
+  - pip:
+    - cortex
+    - wget
