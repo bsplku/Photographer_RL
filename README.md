@@ -44,6 +44,9 @@ For 04_RSA_group_result.py.
 For 05_show_RSA_results.py.
 Please download [RSA_score_sbjs_rndperm_l01.mat](http://bspl.korea.ac.kr/Research_data/PhotographerRL/RSA_score_sbjs_rndperm_l01.mat), [RSA_score_sbjs_rndperm_l02.mat](http://bspl.korea.ac.kr/Research_data/PhotographerRL/RSA_score_sbjs_rndperm_l02.mat), [RSA_score_sbjs_rndperm_l03.mat](http://bspl.korea.ac.kr/Research_data/PhotographerRL/RSA_score_sbjs_rndperm_l03.mat), [RSA_score_sbjs_rndperm_l04.mat](http://bspl.korea.ac.kr/Research_data/PhotographerRL/RSA_score_sbjs_rndperm_l04.mat) here and put in this directory.
 
+### License
+>This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ### Author
 >Juhyeon Lee, Ph.D. \
 >jh0104lee@gmail.com  \
