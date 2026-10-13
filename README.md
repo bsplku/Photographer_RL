@@ -1,4 +1,4 @@
-# Repository for "A Deep Reinforcement Learning Agent Reveals Neural Representations of Human Reinforcement Learning in Real-World Environments"
+# Repository for "A Deep Reinforcement Learning Agent Reveals Neural Representations of Human Reinforcement Learning in Real World Environments"
 ![fig](https://github.com/bsplku/Photographer_RL/blob/main/main_fig.png?raw=true)
 Reinforcement learning study using Photographer paradigm.
 
