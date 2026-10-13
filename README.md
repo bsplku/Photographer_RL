@@ -1,4 +1,4 @@
-# Repository for "Neural Representations of Human Reinforcement Learning in Real-World Environments Revealed by a Deep RL Agent"
+# Repository for "A Deep Reinforcement Learning Agent Reveals Neural Representations of Human Reinforcement Learning in Real-World Environments"
 ![fig](https://github.com/JuhyeonHailey/Photographer_DQN_RSA/blob/main/main_fig.png?raw=true)
 Reinforcement learning study using Photographer paradigm.
 
